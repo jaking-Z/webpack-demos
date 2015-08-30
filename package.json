@@ -24,5 +24,8 @@
     "webpack": "~1.11.0",
     "webpack-dev-server": "^1.10.1"
   },
-  "repository": "ruanyf/webpack-demos"
+  "repository": "ruanyf/webpack-demos",
+  "devDependencies": {
+    "ejs-loader": "^0.2.1"
+  }
 }
